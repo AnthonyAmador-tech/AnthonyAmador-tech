@@ -4,6 +4,7 @@
 
 - <b>NES Emulator(running on Linux, Mac, and Windows)</b>
   - [Base repository](https://github.com/coopeaus/NES-Emulator)
+    - [Demonstration Snapshots](https://github.com/AnthonyAmador-tech/NES-Emulator-Demonstration/blob/main/README.md)
 </b></i>
 
 <h2>Software Development Projects:</h2>
