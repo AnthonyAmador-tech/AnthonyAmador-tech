@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Anthony! <br/><a href="https://github.com/AnthonyAmador-tech">Developer</a>
+<h1>Hello World, I'm Anthony! 
 
 <h2>I am currently working on:</h2>
 
