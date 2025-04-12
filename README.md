@@ -3,7 +3,7 @@
 <h2>I am currently working on:</h2>
 
 - <b>NES Emulator(running on Linux, Mac, and Windows)</b>
-  - [Base repository](https://github.com/coopeaus/NES-Emulator)
+  - [Base repository](https://github.com/coopeaus/NES-Emulator)s
 </b></i>
 
 <h2>Software Development Projects:</h2>
