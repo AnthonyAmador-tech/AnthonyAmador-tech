@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hello World, I'm Anthony! <br/><a href="https://github.com/AnthonyAmador-tech">Developer</a>
 
-<!--
-**AnthonyAmador-tech/AnthonyAmador-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I am currently working on:</h2>
 
-Here are some ideas to get you started:
+- <b>NES Emulator(running on Linux, Mac, and Windows)</b>
+  - [Base repository](https://github.com/coopeaus/NES-Emulator)
+</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Software Development Projects:</h2>
+
+- <b>NES Emulator</b>
+  - Created Debugging Tools to assist devlopment
+  - Ensure accurate cycle timings
+  - Conduct tests for the functionality of the Emulator
+
+<h2>Other Qualifications</h2>
+
+- CompTIA A+
+- CompTIA Security+
