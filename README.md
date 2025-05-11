@@ -18,18 +18,21 @@
 <h2>Software Development Projects:</h2>
 
 - <b>NES Emulator</b>
+  - [Base repository](https://github.com/coopeaus/NES-Emulator)
   - Created Debugging Tools to assist devlopment
   - Ensure accurate cycle timings
   - Focused on correctness and performance
   - Supported debugging and analysis tooling
  
 - <b>Intergalactic Diner (Full-Stack SQL App)</b>
+  - [Base repository](https://github.com/AnthonyAmador-tech/CRUD-Intergalatic-Diner)
   - Developed full CRUD functionality using Node.js, Express, MySQL, and AJAX
   - Designed normalized schema and implemented ERD-based relationships
   - Integrated a dynamic UI using Handlebars templates
   - [Repo base used to get started](https://github.com/osu-cs340-ecampus/nodejs-starter-app)
  
 - <b>Operating System Shell Implementation</b>
+  - [Base repository](https://github.com/osu-cs374/bigshell-AnthonySchool)
   - Input and output redirection
   - Background process execution using `&`
   - Custom variable expansion using `$$`
@@ -37,6 +40,7 @@
   - Path resolution and external command execution
  
 - <b>Python Network Tic Tac Toe Game</b>
+  - [Base repository](https://github.com/AnthonyAmador-tech/Multiplayer-Tic-Tac-Toe)
   - Multiplayer chat included over TCP
   - Playable Tic Tac Toe game via shared connection
   - Clean turn-based control and game board rendering
